@@ -6,7 +6,7 @@ This project investigates the grokking phenomenon in modular arithmetic tasks us
 
 ## Directory Structure
 ```
-project/
+grokking/
 ├── model_kit.py                             # Core module containing models, data generation, and utilities
 ├── Train_Transformer.py                     # Script for training Transformer models
 ├── Train_LSTM.py                            # Script for training LSTM models
